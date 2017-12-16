@@ -1,3 +1,9 @@
+---
+title: "R Markdown, Knitr Assignment"
+author: Pamela
+date: Dec 2017
+output: md_document:  variant: markdown_github
+---
 #R Markdown, Knitr Assignment
 
 ##### 1.Loading and preprocessing the data
